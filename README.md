@@ -7,6 +7,7 @@
   Capturing light that travels millions of years.
 </p>
 
+
 ---
 
 ## Identity
@@ -82,3 +83,8 @@ I build for the second world.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+
+
+<p align="center">
+  <img src=".github/workflows/cat.gif" />
+</p>
